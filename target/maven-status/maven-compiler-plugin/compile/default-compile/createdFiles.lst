@@ -1,0 +1,14 @@
+com\bowl\controller\PartieController.class
+com\bowl\repository\PartieRepository.class
+com\bowl\config\WebConfig.class
+com\bowl\config\DataSourceConfig.class
+com\bowl\controller\JoueurController.class
+com\bowl\entities\Partie.class
+com\bowl\repository\JoueurRepository.class
+com\bowl\service\JoueurService.class
+com\bowl\config\SpringWebInitializer.class
+com\bowl\config\ServiceConfig.class
+com\bowl\entities\Joueur.class
+com\bowl\entities\ResultatPartie.class
+com\bowl\service\PartieService.class
+com\bowl\config\InfrastructureConfig.class

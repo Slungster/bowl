@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="quatrema-maven-snapshots" />
+      <option name="name" value="quatrema snapshots Repository" />
+      <option name="url" value="http://artifactory-principale.enedis.fr/artifactory/quatrema-maven-snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="quatrema-maven-releases" />
+      <option name="name" value="quatrema release Repository" />
+      <option name="url" value="http://artifactory-principale.enedis.fr/artifactory/quatrema-maven-releases" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="releases" />
+      <option name="name" value="releases" />
+      <option name="url" value="https://artifactory-principale.enedis.fr/artifactory/rfc-maven-releases-local/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="snapshots" />
+      <option name="name" value="snapshots" />
+      <option name="url" value="https://artifactory-principale.enedis.fr/artifactory/rfc-maven-snapshots-local" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="http://artifactory-principale.enedis.fr/artifactory/proxy-maven-central" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="snapshots" />
+      <option name="name" value="snapshots" />
+      <option name="url" value="https://artifactory-principale.enedis.fr/artifactory/rfc-maven-snapshots-local/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="artifactory-adaje" />
+      <option name="name" value="artifactory-adaje" />
+      <option name="url" value="http://artifactory-principale.enedis.fr/artifactory/sup-maven-releases" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="releases" />
+      <option name="name" value="releases" />
+      <option name="url" value="https://artifactory-principale.enedis.fr/artifactory/rfc-maven-releases-local" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ida-maven-releases" />
+      <option name="name" value="Idatha releases Repository" />
+      <option name="url" value="http://artifactory-principale.enedis.fr/artifactory/ida-maven-releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="artifactory-direct" />
+      <option name="name" value="artifactory-direct" />
+      <option name="url" value="http://artifactory.direct.enedis.fr/artifactory/repo" />
+    </remote-repository>
+  </component>
+</project>
